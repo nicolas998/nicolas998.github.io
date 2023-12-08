@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. nicolas-giron@uiowa.edu
+subtitle: <a href='#'>The University of Iowa</a>. nicolas-giron@uiowa.edu
 
 profile:
   align: right
