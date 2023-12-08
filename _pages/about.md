@@ -6,7 +6,7 @@ subtitle: <a href='#'>The University of Iowa</a>. nicolas-giron@uiowa.edu
 
 profile:
   align: right
-  image: personal_picture2023.jpg
+  image: prof_pic_nico.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>5105</p>
