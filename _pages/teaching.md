@@ -7,6 +7,23 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**2021** Lecturer in Computational Hydrology
+*University of Manitoba, Canada*
 
-Organize your courses by years, topics, or universities, however you like!
+**2019** Teacher assistant in Hydrogeology
+*University of Iowa, USA*
+
+**2018** Lecturer in Hydrology
+*EAFIT University, Colombia*
+
+**2014 - 2017** Lecturer in Hydrology
+*Universidad de Medellin, Colombia* 
+
+**2012 - 2015** Lecturer in coding and programming
+*Universidad Nacional de Colombia, Facultad de Minas, Medellin*
+
+**2012** Lecturer in Hydrology
+*Politecnico Colombiano Jaime Isaza Cadavid, Medellin*
+
+**2011** Lecturer in coding and programming
+*EAFIT University, Colombia*
