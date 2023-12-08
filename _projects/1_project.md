@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Missouri River Flood Information System
-description: a project with a background image
+description: A project of the Iowa Flood Center 
 img: assets/img/MRFIS_intro.png
 importance: 1
 category: work
-related_publications: 
+giscus_comments: true
 ---
 
 The 2019 floods in Iowa led to 80 counties receiving FEMA disaster declarations, and USDA crop insurance payments from excess precipitation totaled over $210 million. Areas along the Missouri and Mississippi Rivers were hardest hit following an unprecedented 12+ months of above-normal rainfall followed by extreme cold Polar Vortex conditions, a snowy winter, a bomb cyclone, snow melt, levee failures, and ice jams that led to massive, record-shattering flooding. Along the Missouri River, areas that had never been flooded were left devastated, with nearly 3,000 individuals and 500 businesses impacted. Following the 2019 floods, it became clear that the region needed long-term, comprehensive resiliency planning.  
@@ -14,5 +14,5 @@ This work presents the development of an operational flood forecasting system fo
 
 {% include figure.html path="assets/img/MRFIS_scheme.png" title="Schematic of the MRFIS design" class="img-fluid rounded z-depth-1" %}
 
-
-
+** 
+*In this project I worked in the development, setup, and validation of the hydrological model.*
