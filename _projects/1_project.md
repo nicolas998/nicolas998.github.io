@@ -14,5 +14,6 @@ This work presents the development of an operational flood forecasting system fo
 
 {% include figure.html path="assets/img/MRFIS_scheme.png" title="Schematic of the MRFIS design" class="img-fluid rounded z-depth-1" %}
 
-** 
+---
+ 
 *In this project I worked in the development, setup, and validation of the hydrological model.*
