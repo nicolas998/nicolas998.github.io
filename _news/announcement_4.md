@@ -12,5 +12,5 @@ Water temperature is a crucial water quality variable controlling the concentrat
 
 {% include figure.html path="assets/img/temperature_model.gif" title="Example result of NLOST for Waverly, Iowa" class="img-fluid rounded z-depth-1" %}
 
-This work is the results of the Master thesis developed by **Valeria Garcia** and directed by myself along with the Professor **Witold Krajewski** 
+This work is the results of the Master thesis developed by **Valeria Garcia** and directed by myself along with the Professor **Witold Krajewski**.
 
