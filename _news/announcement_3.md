@@ -12,12 +12,5 @@ Along with Professor **Ricardo Mantilla** from the University of Manitoba and **
 
 We present the results from this work in the manuscript titled: “Technical Note: Testing the Connection Between Hillslope Scale Runoff Fluctuations and Streamflow Hydrographs at the Outlet of Large River Basins,” which can be read [here](https://hess.copernicus.org/preprints/hess-2023-187/)
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hess_manuscript.png" class="img-fluid rounded z-depth-1" %}
-    </div>    
-</div>
-<div class="caption">
-    Input signals and resulting hydrographs at subwatersheds of different orders.
-</div>
+{% include figure.html path="assets/img/hess_manuscript.png" title="Input signals and resulting hydrographs at subwatersheds of different orders" class="img-fluid rounded z-depth-1" %}
  
