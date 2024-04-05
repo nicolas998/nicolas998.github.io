@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: Nicolás Velásquez, nicolas-giron@uiowa.edu
+subtitle: 
 
 profile:
   align: left
