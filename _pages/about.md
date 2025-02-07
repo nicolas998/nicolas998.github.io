@@ -9,11 +9,11 @@ profile:
   image: prof_pic_nico.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    nicolas-giron@uiowa.edu<br>
-    IIHR, IFC <br> 
-    University of Iowa<br>
-    Maxwell Stanley Hydraulics Laboratory, 100 C<br>
-    Iowa City, IA<br>
+    nvelasquez@fit.edu<br>
+    MCE <br> 
+    Florida Institute of Technology<br>
+    F.W. Olin Engineering Complex<br>
+    Melbourne, FL>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
