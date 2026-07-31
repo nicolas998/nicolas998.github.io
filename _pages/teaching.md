@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Currently teaching **Fluid Mechanics** (Fall) and **Hydraulics and Hydrology** (Spring) at Florida Tech. 
+Currently teaching **Fluid Mechanics** (Fall) and **Hydraulics and Hydrology** (Spring) at **Florida Tech**. 
 
 **2021** Lecturer in Computational Hydrology
 *University of Manitoba, Canada*
