@@ -6,7 +6,7 @@ title: blank #(if blank, full name will be used instead)
 first_name: Nicolás
 middle_name: 
 last_name: Velásquez Giron
-email: nicolas-giron@uiowa.edu
+email: nvelasquez@fit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal web page. You will find information about my research, experience and hobbies.
 footer_text: >
